@@ -16,7 +16,7 @@ const Campsite = () => {
             </div>
             <div className='quote'>
               <p className='text-lg'><strong>Feeling Lost </strong> and Not Knowing The Way</p>
-              <p className='text-sm'>Starting from the anxiety of the system, visible you are closer ot the possibility of getting lost is next . that's why from here you start the adventure</p>
+              <p className='text-sm'>{'Starting from the anxiety of the system, visible you are closer ot the possibility of getting lost is next . that\'s why from here you start the adventure'}</p>
               <Image
                 src='/quote.svg'
                 alt='quote'
